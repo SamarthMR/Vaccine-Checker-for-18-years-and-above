@@ -1,4 +1,4 @@
-# Under 45 vaccine availability checker
+# Vaccine availability checker for above 18 years people
 
 This script will check for vaccine availability and print it when available, optionally will give you a callback as well (_Only when there are more than 10 free slots availabile_).
 
